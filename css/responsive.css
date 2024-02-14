@@ -1,0 +1,44 @@
+@media (max-width: 575.98px) { 
+    .wrapper {
+        width: 220px;
+        height: 300px;
+    }
+
+    .banner-image {
+        height: 200px;
+        width: 100%;
+    }
+
+    h1 {
+        font-size: 20px;
+    }
+
+    .box .wrapper input {
+        padding: 6px 14px;
+        font-size: 14px;
+        width: 160px;
+    }
+
+    .box .wrapper .inp .error {
+        margin-top: 4px;
+        font-size: 8px;
+    }
+
+    .btn {
+        padding: 6px 12px;
+        border-radius: 12px;
+        font-size: 13px;
+    }
+
+    .btn03 {
+        margin-top: 20px;
+    }
+    .box04 .button-wrapper .chance {
+        font-size: 9px;
+    }
+
+    .box05 .win {
+        font-size: 13px;
+    }
+
+ }
